@@ -4,8 +4,7 @@ A professional desktop To-Do List application built using Python, Tkinter, and J
 
 ## 📸 Project Screenshot
 
-![Smart To-Do List]
-(todo-app.png)
+![Smart To-Do List](todo-app.png)
 
 ✨ Features
 
